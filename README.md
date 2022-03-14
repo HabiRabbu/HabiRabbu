@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HabiRabbu
 
 Check out my GameDev Portfolio Site:
-harveydev.net
+www.harveydev.net
 
 <!---
 HabiRabbu/HabiRabbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
